@@ -1,0 +1,15 @@
+---
+layout: page
+title: Contact Me
+permalink: /contact/
+---
+
+# Let's Contact!
+
+Hi! I am Amara Fatima, a Computer Engineering student at UET Lahore, Faisalabad Campus. 
+
+If you want to discuss my Database Systems project or have any questions, feel free to reach out to me!
+
+**Email:** [Apni Email Yahan Likhein]
+**LinkedIn:** [Apna LinkedIn Link Yahan Likhein]
+**GitHub:** [Apna GitHub Profile Link Yahan Likhein]
